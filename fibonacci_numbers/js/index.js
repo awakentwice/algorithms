@@ -3,7 +3,6 @@
  * @param {Number} n
  * @returns {Number}
  */
-
 function fib(n) {
   let a = 1;
   let b = 1;
